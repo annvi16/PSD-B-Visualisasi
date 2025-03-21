@@ -7,6 +7,7 @@ output: html_document
 ```{r load-packages, message = FALSE, echo = FALSE}
 library(tidyverse)
 library(scales)
+library(forcats)
 ```
 
 In September 2019, YouGov survey asked 1,639 GB adults the following question:
